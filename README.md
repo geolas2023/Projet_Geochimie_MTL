@@ -7,6 +7,8 @@ Carte web interactive des analyses géochimiques compilées sur l'île de Montr�
 - **Sédiments et sols** : sites analysés repérés dans EXAMINE, des thèses, des études d'impact (BAPE) et les données ouvertes de la Ville de Montréal.
 - **Eau souterraine** : 695 analyses SIGÉOM (levés MRN 1978–1982).
 - **Substrat rocheux** : 325 analyses SIGÉOM.
+- **Eau de surface (île de Montréal)** : 179 stations du Réseau de suivi du milieu aquatique de la Ville de Montréal (RUISSO, COURDO) et 8 stations du suivi des métaux du MELCCFP.
+- **Sols urbains** : 29 jardins communautaires analysés par la Direction de santé publique (2006–2009).
 - **Publications GEOSCAN** pertinentes (liens).
 
 **Carte :** https://geolas2023.github.io/Projet_Geochimie_MTL/
