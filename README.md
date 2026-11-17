@@ -1,6 +1,6 @@
-# Projet GEO7531 — Géochimie de Montréal, Laval et de la Rive-Sud (CMM)
+# Projet Ines et Ismail
 
-Projet d'Ines et Ismael.
+### GEO7531 — Géochimie de Montréal, Laval et de la Rive-Sud (CMM)
 
 Carte web interactive des analyses géochimiques compilées sur l'île de Montréal, Laval et la Rive-Sud de la Communauté métropolitaine de Montréal :
 
@@ -20,6 +20,7 @@ Carte web interactive des analyses géochimiques compilées sur l'île de Montr�
 |---|---|
 | `index.html` | Carte web autonome (D3.js) |
 | `donnees/BD_geochimie_CMM_GEO7531.xlsx` | Base de données : documents évalués, inventaire EXAMINE, sites, résultats par élément, eau, roche, GEOSCAN |
+| `donnees/BD_geochimie_CMM_resultats_MTM8.xlsx` | Base consolidée : un résultat par ligne (20 256), coordonnées MTM zone 8 NAD83, méthode, source, emplacement dans la source et hyperliens |
 | `donnees/geochimie_MTL_Laval.geojson` | Couche SIG (WGS84) des points de la phase 1 et des échantillons du 9350 boul. de l'Acadie |
 
 ## Sources
