@@ -9,6 +9,7 @@ Carte web interactive des analyses géochimiques compilées sur l'île de Montr�
 - **Substrat rocheux** : 325 analyses SIGÉOM.
 - **Eau de surface (île de Montréal)** : 179 stations du Réseau de suivi du milieu aquatique de la Ville de Montréal (RUISSO, COURDO) et 8 stations du suivi des métaux du MELCCFP.
 - **Sols urbains** : 29 jardins communautaires analysés par la Direction de santé publique (2006–2009).
+- **Sols — 9350 boul. de l'Acadie** : caractérisation SCP Environnement 2026 (6 forages, 14 échantillons 0–2,21 m ; 14 métaux, 30 HAP, C10–C50).
 - **Publications GEOSCAN** pertinentes (liens).
 
 **Carte :** https://geolas2023.github.io/Projet_Geochimie_MTL/
@@ -19,7 +20,7 @@ Carte web interactive des analyses géochimiques compilées sur l'île de Montr�
 |---|---|
 | `index.html` | Carte web autonome (D3.js) |
 | `donnees/BD_geochimie_CMM_GEO7531.xlsx` | Base de données : documents évalués, inventaire EXAMINE, sites, résultats par élément, eau, roche, GEOSCAN |
-| `donnees/geochimie_MTL_Laval.geojson` | Couche SIG (WGS84) des points de la phase 1 |
+| `donnees/geochimie_MTL_Laval.geojson` | Couche SIG (WGS84) des points de la phase 1 et des échantillons du 9350 boul. de l'Acadie |
 
 ## Sources
 
@@ -27,6 +28,7 @@ Carte web interactive des analyses géochimiques compilées sur l'île de Montr�
 - MRNF, EXAMINE — fonds documentaire de Géologie Québec.
 - MRNF, Découpages administratifs (SDA) — limites de la CMM et des municipalités.
 - Ville de Montréal (limites terrestres ; sédiments, intercepteur sud-est) et Ville de Laval (districts) — CC-BY 4.0.
+- SCP Environnement (2026), projet 15267 — certificat Eurofins EnvironeX 4711530 et plan géo-environnemental ; ORTAM (2025), rapports 18445 (ÉSE Phase I) et 18477 (géotechnique).
 - RNCan, GEOSCAN / Dépôt ouvert des sciences et technologie.
 
 ## Mises en garde
